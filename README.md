@@ -55,17 +55,7 @@ This project helped strengthen core C++ fundamentals while thinking beyond simpl
 ![Admin Menu](assets/admin_menu.jpg)
 
 > 🎥 A short demo video and screenshots are available on my LinkedIn profile.
-> [RealProps — Demo Video](https://your-video-link-here)
-
----
-
-## 🔮 Future Improvements
-
-- File handling (save & load data)
-- Sorting properties by price, location, or type
-- Authentication system
-- Performance optimizations
-- Enhanced console UI
+> [RealProps — Demo Video](https://www.linkedin.com/posts/abdurrafayar_cplusplus-firstsemester-softwaredevelopment-activity-7422234555073314818-Q4Ob?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2s8LIBIwt4OOYMIbkdqAltNpeKhuU2ATE)
 
 ---
 
