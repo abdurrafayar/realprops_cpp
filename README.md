@@ -27,17 +27,15 @@ It goes beyond a typical CRUD application by focusing on **real-world logic, smo
 
 ---
 
-## 🛠 Built With
+## 🛠 Technical Implimentations
 
 - **Language:** C++  
-- **Libraries:** None (Pure C++)  
-- **Concepts Used:**
-  - Structures
-  - Pointers
-  - Functions
-  - Searching logic
-  - Modular programming
-  - Console UI design
+- **Libraries:** None (Pure C++)
+- **Language:** C++
+- **Architecture:** Role-based access control
+- **Data Layer:** File I/O with CSV parsing
+- **UI:** Custom Windows Console API
+- **Code Base:** 1000+ lines, zero external dependencies 
 
 ---
 
