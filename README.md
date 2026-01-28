@@ -55,6 +55,7 @@ This project helped strengthen core C++ fundamentals while thinking beyond simpl
 ![Admin Menu](assets/admin_menu.jpg)
 
 > 🎥 A short demo video and screenshots are available on my LinkedIn profile.
+> [RealProps — Demo Video](https://your-video-link-here)
 
 ---
 
